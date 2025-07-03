@@ -3,7 +3,7 @@
 - Scientific Researcher at **[@HPCSys-Lab](https://github.com/HPCSys-Lab)**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronanpjr&layout=donut-vertical&theme=catppuccin_latte&hide=jupyter_notebook,shaderlab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronanpjr&layout=donut-vertical&theme=catppuccin_latte&hide=jupyter_notebook,shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 _Catppuccin is the best theme! XD_
 <br>
