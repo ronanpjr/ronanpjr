@@ -1,8 +1,6 @@
 ## Hi, it's Ronan here c: - hope you are doing well
 
 
-[![Ronan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronanpjr&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronanpjr&layout=donut-vertical&theme=catppuccin_mocha&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 Catppuccin is the best theme! XD
