@@ -1,9 +1,10 @@
 ## Hi, it's Ronan here c: - hope you are doing well
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronanpjr&layout=donut-vertical&theme=catppuccin_mocha&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronanpjr&layout=donut-vertical&theme=catppuccin_latte&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 Catppuccin is the best theme! XD
+but the mocha ver looked ugly w/ java o.o
 <!--
 **ronanpjr/ronanpjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
