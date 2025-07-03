@@ -1,4 +1,4 @@
-## Hi, it's Ronan here c: - hope you are doing well
+## Hi, it's Ronan here c: hope you are doing well
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronanpjr&layout=donut-vertical&theme=catppuccin_latte&hide=jupyter_notebook,shaderlab)](https://github.com/anuraghazra/github-readme-stats)
