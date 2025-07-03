@@ -3,8 +3,7 @@
 
 [![Ronan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronanpjr&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
-![Fav Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronanpjr&theme=catppucin_mocha&layout=compact&langs_count=4)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronanpjr&layout=donut-vertical&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 Catppuccin is the best theme! XD
 <!--
 **ronanpjr/ronanpjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
