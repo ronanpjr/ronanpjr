@@ -2,12 +2,16 @@
 
 
 [![Ronan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronanpjr&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+
+![Fav Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronanpjr&theme=catppucin_mocha&layout=compact&langs_count=4)
+
+Catppuccin is the best theme! XD
 <!--
 **ronanpjr/ronanpjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...https://github.com/ronanpjr/ronanpjr/edit/main/README.md
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
