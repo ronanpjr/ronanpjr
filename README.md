@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, it's Ronan here c: - hope you are doing well
 
+
+[![Ronan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronanpjr)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ronanpjr/ronanpjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
