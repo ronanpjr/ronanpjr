@@ -5,6 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronanpjr&layout=donut-vertical&theme=catppuccin_latte&hide=jupyter_notebook,shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=ronanpjr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 _Catppuccin is the best theme! XD_
 <br>
 <!--
